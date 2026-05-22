@@ -1,0 +1,16 @@
+[project]
+name = "pythonproject-bank"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "mikhail nikolaev",email = "mikemein18081978@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
